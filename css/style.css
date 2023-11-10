@@ -7,11 +7,12 @@
 .image-container {
     align-items: center;
     height: 100vh;
-    margin-top: 10%;
+	margin-top: 10%;
+	margin-right: 20%;
 }
 
 .image-container img {
-    max-width: 100%;
+    max-width: 120%;
     height: auto;
 }
 
