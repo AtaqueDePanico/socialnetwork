@@ -4,10 +4,16 @@
     text-align: center;
 }
 
+.image-container {
+    align-items: center;
+    height: 100vh;
+}
+
 .image-container img {
     max-width: 100%;
     height: auto;
 }
+
 
 .titles-buttons {
 	color: #00BACC;
